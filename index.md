@@ -2,34 +2,48 @@
 
 ---
 
-### Category Name 1 
+### ArcGIS Case Study - Vacant Houses in Philadelphia
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[view Storymaps here](https://arcg.is/v5v1G)
+<img src="images/gis.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Policy Analytics Projects - R
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+#### Transportation-Oriented-Development in Dallas
+
+[view full codes and deliverable here](/pdf/project1.html)
+<img src="images/project1.jpg?raw=true"/>
+
+---
+
+#### Hedonic Home Price Prediction
+
+[view full codes and deliverable here](/pdf/project2.html)
+<img src="images/project2.jpg?raw=true"/>
 
 ---
 
+#### Philadelphia Predictive Policing
 
-
+[view full codes and deliverable here](/pdf/project3.html)
+<img src="images/project3.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+#### Housing Subsidy Algorithm
+
+[view full codes and deliverable here](/pdf/project4.html)
+<img src="images/project4.jpg?raw=true"/>
+
+---
+
+#### Bike Share Rebalancing in DC
+
+[view full codes and deliverable here](/pdf/project5.html)
+<img src="images/project5.jpg?raw=true"/>
+
+---
+
