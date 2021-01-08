@@ -2,10 +2,19 @@
 
 ---
 
-### Machine Learning Project in Python - COVID-19 Hospitalization Prediction 
+### Machine Learning Project in **Python**
+
+### COVID-19 Hospitalization Prediction
 
 [view full codebook here](https://colab.research.google.com/drive/1ApHYt5n_FtdrkfG-QdJLKuzZev_u5ans?usp=sharing)
 <img src="images/project6.jpg?raw=true"/>
+
+---
+
+### Child Abuse Risk Level Prediction 
+
+[view full codebook here](https://colab.research.google.com/drive/1kDC5rokfpwjf_43IW0PuX2CW_xGVKNBl?usp=sharing)
+<img src="images/project7.jpg?raw=true"/>
 
 ---
 
