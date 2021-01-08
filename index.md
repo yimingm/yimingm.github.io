@@ -2,6 +2,13 @@
 
 ---
 
+### Machine Learning Project in Python - COVID-19 Hospitalization Prediction 
+
+[view full codebook here](https://colab.research.google.com/drive/1ApHYt5n_FtdrkfG-QdJLKuzZev_u5ans?usp=sharing)
+<img src="images/project6.jpg?raw=true"/>
+
+---
+
 ### ArcGIS Case Study - Vacant Houses in Philadelphia
 
 [view Storymaps here](https://arcg.is/v5v1G)
