@@ -2,6 +2,13 @@
 
 ---
 
+### Co-authorship Network Graph in Tableau
+
+[view my work here](https://public.tableau.com/app/profile/yiming.ma3525)
+<img src="images/tableau.png?raw=true"/>
+
+---
+
 ### Machine Learning Project in **Python**
 
 ### COVID-19 Hospitalization Prediction
@@ -11,17 +18,17 @@
 
 ---
 
-### Child Abuse Risk Level Prediction 
-
-[view full codebook here](https://colab.research.google.com/drive/1kDC5rokfpwjf_43IW0PuX2CW_xGVKNBl?usp=sharing)
-<img src="images/project7.jpg?raw=true"/>
-
----
-
 ### ArcGIS Case Study - Vacant Houses in Philadelphia
 
 [view Storymaps here](https://arcg.is/v5v1G)
 <img src="images/gis.jpg?raw=true"/>
+
+---
+
+### NJ Population Health Community Mapping
+
+[view my work here](https://arcg.is/1WHGzT1)
+<img src="images/cohortmap.png?raw=true"/>
 
 ---
 
